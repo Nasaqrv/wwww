@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(45deg, #274e55, black, #1f3529);
+    color: #f0f8ff;
+       background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+header {
+    display: flex;
+     justify-content: center;
+     border-radius: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+      
+}
+
+button {
+    align-items: center;
+    border-radius: 12px;
+}
+a{
+    color: #f0f8ff;
+    text-decoration:none ;
+
+}
+.rr{  width: 300px;  /* Largura */
+    height: 35px;  /* Altura */
+    font-size: 16px;
+    padding: 5px;
+        border-radius: 8px;
+    border: 1px solid #154663;
+
+     
+}

@@ -1,0 +1,52 @@
+
+
+body{
+    color:#f0f8ff;
+    min-height: 100vh;
+    background: linear-gradient(45deg, #274e55, black, #1f3529);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+  }
+.dois{
+   column-span: all;
+    color: #ffffff;
+    column-width: 250px;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+button{
+    color: #ec0606;
+ padding: 30px;
+background-image: url(../img/vampeta-tvpop-300x186.jpg.webp);
+ background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     width: fit-content;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.ss
+{
+      width: 300px;  /* Largura */
+    height: 35px;  /* Altura */
+    font-size: 16px;
+    padding: 5px;
+        border-radius: 8px;
+    border: 1px solid #154663;
+
+}
+
+

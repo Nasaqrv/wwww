@@ -1,0 +1,50 @@
+body{
+  background: linear-gradient(45deg, #274e55,black ,#1f3529 );
+    color:#f0f8ff;
+    display: flex;
+    flex-direction: column;
+    font: 1.2em / 1.5 sans-serif;
+     width: 100%;
+}
+
+ .dp {
+  display: flex;
+  justify-content: center;
+  background-color: #254739;
+  text-decoration: none;
+  width: auto;
+ }
+ header{
+  background-image: url(./img/dinheiro-removebg-preview.png );
+  background-size: cover;
+  width: auto;
+
+ }
+.link{
+  color: #f0f8ff;
+   text-decoration: none;
+}
+section{
+ flex-wrap: wrap-reverse;
+justify-content: center;
+}
+.compra{
+  color: #f0f8ff;
+font-size: 30px;
+ text-decoration: none;
+  
+}
+.FD{
+ color: #f0f8ff;
+ text-decoration: none;
+}
+button{
+  height: 30px;
+  width: 500px;
+}
+a{
+  color: #f0f8ff;
+  text-decoration: none;
+}
+
+
